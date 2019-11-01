@@ -4,4 +4,6 @@ First
 1) 创建目录  cd mkdir  等等
 2）初始化  git init
 3) 添加文件到仓库    git add  Test.txt
+4）文件提交到仓库    git commit            git commit -m "Test"  
 
+总结: add可以添加多次   git commit 可以提交多个文件
